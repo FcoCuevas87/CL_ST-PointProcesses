@@ -1,2 +1,2 @@
 # CL_ST-PointProcesses
-Codes developed for the paper "Composite Likelihood for Spatio Temporal Point Processes"
+Codes developed for the paper "Composite Likelihood for Spatio Temporal Point Processes" (Submitted under revision)
